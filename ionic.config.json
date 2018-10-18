@@ -1,0 +1,7 @@
+{
+  "name": "myChurch",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
